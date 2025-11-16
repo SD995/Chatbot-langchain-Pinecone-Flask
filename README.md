@@ -128,4 +128,11 @@ open up localhost:
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
-   - OPENAI_API_KEY
+   - GROQ_API_KEY
+
+
+ Live Demo (Hosted on AWS EC2)
+
+ chatbot is deployed and accessible here:
+
+👉 http://3.87.68.61:8080/
